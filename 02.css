@@ -1,4 +1,4 @@
-$button-color: #00afea;
+
 $button-hover: lighten($button-color, 15%);
 
 @function contrast-color($color) {
