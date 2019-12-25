@@ -87,6 +87,10 @@ $button-hover: lighten($button-color, 15%);
   left: 15px;
   right: 15px;
   text-align: center;
+    font-size: 40px;
+    background: #fff;
+    border-radius: 10px;
+    border: 3px solid #111;
 }
 
 @media screen and (min-width: 500px) {
@@ -100,6 +104,10 @@ $button-hover: lighten($button-color, 15%);
   .cc_container .cc_btn {
     right: 15px;
     bottom: 26px;
+    font-size: 40px;
+    background: #fff;
+    border-radius: 10px;
+    border: 3px solid #111;
   }
 }
 @media screen and (min-width: 768px) {
@@ -109,9 +117,10 @@ $button-hover: lighten($button-color, 15%);
 }
 .cc_container {
   background: #fff;
-  background-image:url(https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s1600/logo.png);
+  background-image:url(https://1.bp.blogspot.com/-IMj2p6khZFE/XPAXjkHc3AI/AAAAAAAAC04/hD8lz1z_rpYird7ocxYgXSjoZ-PCQ6o-wCLcBGAs/s720/logo.png);
+  background-position:center;
   color: #111;
-  font-size: 16px;
+  font-size: 30px;
   font-family: "Lato", sans-serif;
   box-sizing: border-box;
   border: 1px solid #ccc;
